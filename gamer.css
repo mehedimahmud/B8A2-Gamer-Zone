@@ -273,3 +273,42 @@ line-height: 30px; */
 .fun-img-4 {
     display: block;
 }
+
+/* *section-4*/
+
+.section-4{
+    display: flex;
+    
+    
+    padding-top: ;
+    padding-bottom: ;
+    padding-right:180px  ;
+     padding-left: 220px;
+}
+.free-head {
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.free-clr {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.free-site{
+    text-align-last: right;
+}
+.free-img{
+    width: 600px;
+}
+.rec-55{
+    
+  margin-left: 100px;
+}
+ .rec-66{
+    position: relative;
+    bottom: 230px;
+} 
