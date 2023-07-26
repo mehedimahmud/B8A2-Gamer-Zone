@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@400;700;800&family=Work+Sans:wght@100;200;400;500;600;700;800&display=swap');
+
+/*sharing styles*/
+* {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/*header styles*/
+nav {
+    /* 
+    height: 130px;
+ */
+    padding: 20px 180px;
+    display: flex;
+    justify-content: space-between;
+    /*  border: 2px solid orange; */
+}
+
+nav>div {
+    display: flex;
+}
+
+.image-1 {
+    width: 86px;
+    height: 40px;
+    margin-right: 20px;
+
+}
+
+.demo {
+    /* border: 2px solid orange; */
+    height: 40px;
+}
+
+.header-tittle {
+    /*  border: 2px solid orange; */
+    /* font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+ */
+}
+
+.header-extension>p {
+    margin-right: 30px;
+}
+
+.header-icon {
+    display: flex;
+    width: 260px;
+    height: 56px;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    align-items: center;
+    padding: 0px 24px;
+}
+
+.header-icon>p {
+    margin-right: 25px;
+
+}
+
+.icon {
+    /* border: 1px solid orange; */
+
+}
+
+#youtube-icon {
+    /*  width: 34px;
+    height: 24px; */
+    margin-right: 20px;
+}
+
+#tiktok-icon {
+    /* width: 24px;
+    height: 24px; */
+    /* border: 1px solid orange; */
+}
+
